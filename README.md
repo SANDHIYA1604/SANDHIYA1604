@@ -128,4 +128,12 @@ Currently working on strengthening my programming fundamentals, improving proble
 
 ---
 
+---
+
+## 🧩 Coding Profiles
+
+[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Sandhiya1604)
+
+All my coding profiles (LeetCode, CodeChef, and more) are tracked together on my [Codolio dashboard](https://codolio.com/profile/Sandhiya1604) — one place to see my overall problem-solving stats.
+
 ✨ Learning • Building • Improving

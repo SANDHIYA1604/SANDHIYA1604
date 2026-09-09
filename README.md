@@ -105,6 +105,12 @@ Built a full-stack web application using Python, Flask, MySQL, and Scikit-learn'
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/SANDHIYA1604/SANDHIYA1604/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📈 My Coding Journey
 
 I believe in learning by building.

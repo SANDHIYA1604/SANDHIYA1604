@@ -128,7 +128,6 @@ Currently working on strengthening my programming fundamentals, improving proble
 
 ---
 
----
 
 ## 🧩 Coding Profiles
 
@@ -136,4 +135,5 @@ Currently working on strengthening my programming fundamentals, improving proble
 
 All my coding profiles (LeetCode, CodeChef, and more) are tracked together on my [Codolio dashboard](https://codolio.com/profile/Sandhiya1604) — one place to see my overall problem-solving stats.
 
+---
 ✨ Learning • Building • Improving
